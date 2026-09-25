@@ -1,0 +1,10 @@
+[project]
+name = "tools-calling-chatbot"
+version = "0.1.0"
+description = "A terminal chatbot using the OpenAI Python SDK."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "openai>=1.66.0",
+]
